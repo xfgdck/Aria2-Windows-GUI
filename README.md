@@ -1,4 +1,4 @@
-## XiaoFeiGun
+## 迁移至[https://github.com/xfgdck/XiaoFeiGun](https://github.com/xfgdck/XiaoFeiGun)
 
 Windows下基于aria2的下载管理器, 易用免配置, 支持 HTTP/HTTPS、FTP、SFTP、磁力链接（Magnet）与 BT 种子下载。
 
